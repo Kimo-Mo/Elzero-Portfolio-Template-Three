@@ -224,12 +224,13 @@ header .container {
 }
 header .container .logo img {
   width: 55px;
+  height: 55px;
   cursor: pointer;
   margin: 5px 0;
 }
 @media (width < 769px) {
   header .container .logo img {
-    width: 100%;
+    width: 45px;
     height: 45px;
   }
 }
